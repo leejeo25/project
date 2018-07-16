@@ -2,4 +2,4 @@
 foo<-'that'
 bar<-2
 
-baz<-foo+bar
+baz<-3+4
