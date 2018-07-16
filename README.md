@@ -18,6 +18,6 @@ This is an unordered list:
   [a link](https://pearsonlab.github.io ) to my webpage
 
 use the 'cd' command 
-'''R
+```R
 foo<-function(arg1,arg2){<stuff>}
-'''
+```
